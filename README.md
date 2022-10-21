@@ -11,7 +11,7 @@ Como utilizar:
 
 Inserir a mensagem no campo: "Digite sua mensagem..."
 
-Escolher qual ferramenta utilizar: Cifra de César ou Base 64.
+Escolher qual ferramenta utilizar: Cifra de César ou Base64.
 
 Escolher a chave e selecionar o que deseja: codificar ou decoficar.
 
